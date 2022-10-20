@@ -1,4 +1,4 @@
 ### 1. Contributors List:
-    Tony Stark
-    Bruce Banner
-    Jarvis
+    - Tony Stark
+    - Bruce Banner
+    - Jarvis
